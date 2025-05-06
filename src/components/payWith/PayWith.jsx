@@ -68,7 +68,7 @@ const PayWith = ({ variant }) => {
             />
           </div>
           <div className="presale-item-inner">
-            <label>Get Token ({tokenSymbol})</label>
+            <label>Get Token</label>
             <input type="number" placeholder="0" value={totalAmount} disabled />
           </div>
         </div>

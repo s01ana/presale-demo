@@ -8,10 +8,10 @@ import PresaleContractAbi from "./PresaleContractAbi.json";
 export const networkLink = "https://sepolia.etherscan.io/tx";
 
 //token contract address
-const tokenContractAddress = "0xF1CD03880758F286a167438B787Be3facc285e65";
+const tokenContractAddress = "";
 
 //token presale contract address
-export const presaleContractAddress = "0xE429f7A2BDac87e8B02C9a14E68C668f417Ec6ec";
+export const presaleContractAddress = "";
 
 //contract chainid
 const contractChainId = 11155111;

@@ -8,10 +8,10 @@ import PresaleContractAbi from "./PresaleContractAbi.json";
 export const networkLink = "https://testnet.bscscan.com/tx/";
 
 //token contract address
-const tokenContractAddress = "0x846DED5db577DdfB3C054F0c847f2F7bdc83919a";
+const tokenContractAddress = "";
 
 //token presale contract address
-export const presaleContractAddress = "0xc58F918221ce4F51C8673D93Db5f658502FEC0Fb";
+export const presaleContractAddress = "";
 
 //contract chainid
 const contractChainId = 97;
